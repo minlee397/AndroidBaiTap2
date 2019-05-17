@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BaiTap2</string>
+    <string name="title_menu">List Menu</string>
+    <string name="txt_ingredients">INGREDIENTS: </string>
+    <string name="str_prep">PREP:</string>
+    <string name="str_cook">COOK: </string>
+    <string name="str_total">TOTAL: </string>
+</resources>
